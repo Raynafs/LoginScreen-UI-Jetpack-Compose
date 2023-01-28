@@ -81,7 +81,6 @@ fun Login() {
             Spacer(modifier = Modifier.height(30.dp))
             Text(text = "Welcome Back!", fontWeight = FontWeight.Bold, fontSize = 40.sp)
             Text(text = "You've been missed")
-            Text(text = "You've been missed")
             Spacer(modifier = Modifier.height(30.dp))
 
             OutlinedTextField (value = email,
